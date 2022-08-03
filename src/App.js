@@ -10,8 +10,8 @@ function App() {
     <Routes>
       <Route path="/valo-tournament" element={<Layout/>}>
       <Route index element={<Home/>}  />
-      <Route path="Rules"  element={<Rules/>}  />
-      <Route path="Contactus"  element={<Contactus/>}  />
+      <Route path="rules"  element={<Rules/>}  />
+      <Route path="contactus"  element={<Contactus/>}  />
       </Route>
     </Routes>
   </BrowserRouter>
