@@ -25,13 +25,13 @@ import './nav.css'
         color: 'white',
         
       }}]} >Home</Button>
-    <Button component={NavLink} to="/valo-tournament/Rules" style={({isActive})=> {return{backgroundColor: isActive ? "#FD4556": ""}}} sx={[{color: "white"} , {
+    <Button component={NavLink} to="/valo-tournament/rules" style={({isActive})=> {return{backgroundColor: isActive ? "#FD4556": ""}}} sx={[{color: "white"} , {
       '&:hover': {
         color: 'white',
         
       }}]} 
         >Rules</Button>
-    <Button component={NavLink} to="/valo-tournament/Contactus" style={({isActive})=> {return{backgroundColor: isActive ? "#FD4556": ""}}}  sx={[{color: "white"} , {
+    <Button component={NavLink} to="/valo-tournament/contactus" style={({isActive})=> {return{backgroundColor: isActive ? "#FD4556": ""}}}  sx={[{color: "white"} , {
       '&:hover': {
         color: 'white',
         
