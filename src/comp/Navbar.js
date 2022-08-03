@@ -20,7 +20,7 @@ import './nav.css'
     <Typography variant="h5" component="div" sx={{flexGrow:1}}>
     Valorant Campus Challengers
     </Typography>
-    <Button component={NavLink} to='/valo-tournament/' style={({isActive})=> {return{backgroundColor: isActive ? "#FD4556": ""}}}  sx={[{color: "white"} , {
+    <Button component={NavLink} to="/valo-tournament/" style={({isActive})=> {return{backgroundColor: isActive ? "#FD4556": ""}}}  sx={[{color: "white"} , {
       '&:hover': {
         color: 'white',
         
