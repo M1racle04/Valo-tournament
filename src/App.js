@@ -8,7 +8,7 @@ function App() {
     <>
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Layout/>}>
+      <Route path="/valo-tournament" element={<Layout/>}>
       <Route index element={<Home/>}  />
       <Route path="Rules"  element={<Rules/>}  />
       <Route path="Contactus"  element={<Contactus/>}  />

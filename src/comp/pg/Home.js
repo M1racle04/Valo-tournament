@@ -60,7 +60,7 @@ const Home = ( ) => {
  
 
  <footer id="footer">
-      <p class="footes">Copyright METHGAMING ⓒ {year} </p>
+      <p class="footes">This Tournament has no association wiht RIOT games. Copyright METHGAMING ⓒ {year} </p>
     </footer>
     
     </>
