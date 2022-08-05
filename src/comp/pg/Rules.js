@@ -16,7 +16,7 @@ const Rules = ( ) => {
 
 
 
-    <div class="container-fluid">
+    <div class="container-fluid1">
 
     <div class="row">
 <div class="col-lg-6">
@@ -27,7 +27,7 @@ const Rules = ( ) => {
      <li>The entry fees for the touranment is Rs 50/- per person.</li>
      <li>The teams must have 5 players to be eligible for registration. 
      Along with that they are allowed to have one more substitution. </li>
-     <li>Hence , A team registering with 5 players need to pay a sum of Rs 250/- , 
+     <li>Hence , a team registering with 5 players need to pay a sum of Rs 250/- , 
      whereas a team registering with 6 players( 5 + 1 ) need to pay Rs 300/-</li>
      <li>All the Group stage matches will be BO1</li>
      <li>The playoffs will be BO3</li>
@@ -63,7 +63,7 @@ const Rules = ( ) => {
    Failing to do so will result in walkover to other team.  </li>
    <li>All the registerd teams will be divided into groups.</li>
    <li>PEARL is in the map pool</li>
-   <li>Top Two teams from each group will qualify for palyoffs.</li>
+   <li>Top Two teams from each group will qualify for playoffs.</li>
    <li>The playoffs will be an upper and lower bracket format.</li>
    <li>The groups will be shared 3-4 days after the registration is closed.</li>
 
@@ -84,8 +84,8 @@ const Rules = ( ) => {
      <li>The team which win the toss will call for map and the losing team will call for side.</li>
      <li>During playoffs map selections will be done through map ban process.</li>
      <li>There will be total of 4 timeouts allowed,2 per half. </li>
-     <li>In case a players disconnects during match, the match will be paused fro 10 minutes.
-     The palyers needs to return within this time frame.</li>
+     <li>In case a players disconnects during match, the match will be paused for 10 minutes.
+     The players needs to return within this time frame.</li>
      <li>No in-game sub is allowed. During BO3 & BO5 , the sub will be allowed in between maps.</li>
      <li> All the teams will be required the starting lineup 15 mins prior the match.</li>
 
@@ -117,7 +117,7 @@ const Rules = ( ) => {
 
 
     <footer id="footer">
-      <p class="footes">This Tournament has no association wiht RIOT games .Copyright METHGAMING ⓒ {year} </p>
+      <p class="footes">This Tournament has no association with RIOT games .{year} </p>
     </footer>
   
     

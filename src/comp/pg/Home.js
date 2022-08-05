@@ -16,8 +16,8 @@ const Home = ( ) => {
 
 
   <section id= "detailes">
-
-<h2>WELCOME TO THE REALM OF CHAMPIONS</h2>
+<div class="container-fluid3 bg1">
+<h2 class="h">WELCOME TO THE REALM OF CHAMPIONS</h2>
 <p class="pa">Do You Have What it Takes To be on the TOP? </p>
 <p class="pa">If you think you have what it takes to be called as champions , then we give you the grand stage to compete and show it to the world.</p>
 <p class="pa">REGISTER today and participate in the most fierce battle ever. </p>
@@ -29,7 +29,7 @@ const Home = ( ) => {
     <div class="reg">
   
 
-    <a href="https://forms.gle/1FvsPz8vzkWQ261EA" target="blank">
+    <a href="https://forms.gle/yDTgpgjqgRGnzwQM8" target="blank">
     <button  class="btn btn--light body"  >
       <span class="btn__inner">
         <span class="btn__slide"></span>
@@ -42,14 +42,14 @@ const Home = ( ) => {
 
   
 
-
+</div>
   </section> 
 
 
 
 
 
-  <div class=" container-fluid1 mainimg">
+  <div class=" container-fluid2 mainimg">
  
 </div>
     
@@ -60,7 +60,7 @@ const Home = ( ) => {
  
 
  <footer id="footer">
-      <p class="footes">This Tournament has no association wiht RIOT games. Copyright METHGAMING ⓒ {year} </p>
+      <p class="footes">This Tournament has no association wiht RIOT games.{year} </p>
     </footer>
     
     </>

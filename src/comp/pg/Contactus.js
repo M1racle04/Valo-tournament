@@ -11,11 +11,11 @@ const year = new Date().getFullYear();
 <div class="col-lg-12">
 <h3>IN CASE OF ANY QUERY</h3>
 <h3>FEEL FREE TO REACH OUT TO US!</h3>
-<i class="fa-brands fa-whatsapp  fa-xl icon"> - 8303891852</i>
+<i class="fa-brands fa-whatsapp  fa-xl icon"> - 8072508388</i>
 <br />
 <i class="fa-brands fa-instagram fa-xl icon"> - @valorantcampuschallengers22</i>
 <br />
-<i class="fa-solid fa-envelope fa-xl icon"> - something</i>
+<i class="fa-solid fa-envelope fa-xl icon"> - valorantcampuschallengers22@gmail.com</i>
 
 
 <img class="bg" src={bg} alt="" />
@@ -27,7 +27,7 @@ const year = new Date().getFullYear();
 
 
     <footer id="footer">
-      <p class="footes">This Tournament has no association wiht RIOT games.Copyright METHGAMING ⓒ {year} </p>
+      <p class="footes">This Tournament has no association with RIOT games. {year} </p>
     </footer>
     
     </>
