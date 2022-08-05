@@ -17,11 +17,11 @@ const Home = ( ) => {
 
   <section id= "detailes">
 <div class="container-fluid3 bg1">
-<h2 class="h">WELCOME TO THE REALM OF CHAMPIONS</h2>
+<h2 class="head">WELCOME TO THE REALM OF CHAMPIONS</h2>
 <p class="pg">Do You Have What it Takes To be on the TOP? </p>
 <p class="pg">If you think you have what it takes to be called as champions , then we give you the grand stage to compete and show it to the world.</p>
 <p class="pg">REGISTER today and participate in the most fierce battle ever. </p>
-<h2 class="h">Participate Today and WIN prizes worth THOUSANDS!!!!</h2>
+<h2 class="head">Participate Today and WIN prizes worth THOUSANDS!!!!</h2>
 
 
        
