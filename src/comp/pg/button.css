@@ -20,14 +20,15 @@
 
 
 
-h2{
+.h{
   font-family: 'Montserrat', sans-serif;
-
+font-size: 3rem;
 margin-bottom: 50px;
 }
 
-.pa{
+.pg{
   font-family: 'Frank Ruhl Libre', serif;
+  font-size: 0.7rem;
 }
 
 .prize{
