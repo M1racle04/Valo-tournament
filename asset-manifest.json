@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/valo-tournament/static/css/main.6586b7a6.css",
-    "main.js": "/valo-tournament/static/js/main.f9b13dda.js",
+    "main.css": "/valo-tournament/static/css/main.39018eff.css",
+    "main.js": "/valo-tournament/static/js/main.0e9c0cac.js",
     "static/js/787.4560b030.chunk.js": "/valo-tournament/static/js/787.4560b030.chunk.js",
     "static/media/valo.jpg": "/valo-tournament/static/media/valo.fa7bebcff2a6f3e8a998.jpg",
     "static/media/main1.jpg": "/valo-tournament/static/media/main1.f0602d19b3f232686d21.jpg",
@@ -12,12 +12,12 @@
     "static/media/jettc1.jpg": "/valo-tournament/static/media/jettc1.a7d79cb6d0c44f59b0bb.jpg",
     "static/media/bg.png": "/valo-tournament/static/media/bg.d3bd05bd5b0f241d4fae.png",
     "index.html": "/valo-tournament/index.html",
-    "main.6586b7a6.css.map": "/valo-tournament/static/css/main.6586b7a6.css.map",
-    "main.f9b13dda.js.map": "/valo-tournament/static/js/main.f9b13dda.js.map",
+    "main.39018eff.css.map": "/valo-tournament/static/css/main.39018eff.css.map",
+    "main.0e9c0cac.js.map": "/valo-tournament/static/js/main.0e9c0cac.js.map",
     "787.4560b030.chunk.js.map": "/valo-tournament/static/js/787.4560b030.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6586b7a6.css",
-    "static/js/main.f9b13dda.js"
+    "static/css/main.39018eff.css",
+    "static/js/main.0e9c0cac.js"
   ]
 }
