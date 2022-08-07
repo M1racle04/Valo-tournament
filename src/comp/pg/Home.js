@@ -60,7 +60,7 @@ const Home = ( ) => {
  
 
  <footer id="footer">
-      <p class="footes">This Tournament has no association wiht RIOT games.{year} </p>
+      <p class="footes">This Tournament has no association with RIOT games.{year} </p>
     </footer>
     
     </>
