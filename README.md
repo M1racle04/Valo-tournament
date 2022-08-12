@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+View at: https://m1racle04.github.io/valo-tournament/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
